@@ -1,5 +1,13 @@
 tsconfig.json
-src
 bower_components
 node_modules
 spec
+.gitattributes
+.jsbeautifyrc
+.jshintrc
+.stylelintrc
+.travis.yml
+*.json
+Gruntfile.js
+karma.conf.js
+.md
